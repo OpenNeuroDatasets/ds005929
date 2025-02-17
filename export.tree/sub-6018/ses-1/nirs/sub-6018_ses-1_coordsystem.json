@@ -1,7 +1,0 @@
-{
-  "NIRSCoordinateSystem": "Other",
-  "NIRSCoordinateSystemDescription": "No standard coordinate system was used. Positions are relative to the measurement device.",
-  "NIRSCoordinateUnits": "mm",
-  "AnatomicalLandmarkCoordinates": {},
-  "Notes": "This is an old recording with an SD file now located under main directory/sourcedata."
-}
